@@ -1,6 +1,5 @@
 This is a starter project for the [Build a Fullstack App from Scratch with Next.js course](https://frontendmasters.com/courses/fullstack-app-next/)
 
-
 ### Instructions
 
 First, clone this repository and install the dependencies:
@@ -12,7 +11,7 @@ git clone https://github.com/gabrielgustavos/spotify-clone.git
 Change Directories
 
 ```bash
-cd spotify
+cd spotify-clone
 ```
 
 Install Dependencies
